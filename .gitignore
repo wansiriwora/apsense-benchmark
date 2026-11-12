@@ -1,0 +1,14 @@
+# Dataset / preprocessed data (large, not redistributable)
+/preprocess/
+
+# Training outputs (model weights, test predictions, logs)
+/adasyn/
+/batchsampler/
+/imbalance/
+/original/
+/smote/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

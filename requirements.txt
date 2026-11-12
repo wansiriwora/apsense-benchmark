@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+matplotlib
+pyedflib
+mne
+zarr
+neurokit2
+numba
+tqdm
+scikit-learn
+imbalanced-learn
+torch
